@@ -1,3 +1,3 @@
 import { foo } from './lib';
 
-console.log(foo);
+console.log(foo.t());
